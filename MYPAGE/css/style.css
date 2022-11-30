@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Jua&display=swap');
+body{
+    background-color: lightsteelblue;
+} 
+
+.headf{
+    font-size : 50px;
+    color:steelblue;
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.nav{
+    font-size : 15px;
+    color:steelblue;
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.filds{
+    width:400px; 
+    margin:0 auto; 
+    border-width: 5px; 
+    border-color:white;
+
+    
+    font-size : 15px;
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.grid-profile{
+    display:flex;
+    flex-wrap:wrap;
+    align-items:flex-start;
+    margin:30px 0;
+}
+

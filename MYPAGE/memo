@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <title>🌊GaHyeon Lee Profile🌊</title>
+</head>
+<body>
+  <header>
+    <div>
+        <img src="../img/logo.png" width="1000" height="180">
+        <font size="8">HGL PAGE</font>
+    </div>
+    <nav>
+        <a href="../index.html">홈</a> | 
+        <a href="../html/login.html">로그인</a> | 
+        <a href="../html/join.html">회원가입</a> | 
+        <a href="../html/profile.html">프로필</a>
+    </nav>
+    </header>
+    <br><br><br>
+    <table>
+        <caption><h1>HGL PROFILE😉</h1></caption>
+        <tr>
+            <td rowspan="4"><img src="../img/profile.jpg" width="100" height="100"></td>
+            <td>name : Lee GaHyeon</td>
+        </tr>
+        <tr>
+            <td>전화번호 : 010-****-1890</td>
+        </tr>
+        <tr>
+            <td>이메일 : kh1890@naver.com</td>
+        </tr>
+        <tr>
+            <td>홈페이지 : NOT FOUND</td>
+        </tr>
+        
+    </table>
+    <br><br><br>
+    <footer>
+        유쌤의 홈페이지. Copyright. 2022. Yoo.<br>
+        <img src="../img/aaa.png">
+    </footer>
+</body>
+</html>
